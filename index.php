@@ -55,8 +55,7 @@
             <div class="col-lg-8 mx-auto">
                 <h1 style="font-family: Montserrat, sans-serif;">Download PROJECT</h1>
                 <p style="font-family: Montserrat, sans-serif;"><br><strong><em>NOTE:</em>&nbsp;Appreciate my work with does not sell or upload this Project in any website. If&nbsp; the file is damaged or cannot be downloaded, please report it with the&nbsp; comment below. Please respect my rules because I've worked so hard to&nbsp; make this project.</strong><br><br></p>
-                <button
-                    class="btn btn-primary btn-lg btn-link" type="button" style="background-color: #2b5aff;font-family: Montserrat, sans-serif;color: #ffffff;">DOWNLOAD</button>
+                <a href="#" class="btn btn-primary btn-lg btn-link" style="font-family: Montserrat;color: #ffffff;" role="button">DOWNLOAD</a>
             </div>
         </div>
     </section>
