@@ -41,6 +41,7 @@
             <div class="row">
                 <div class="col-lg-8 mx-auto">
                     <h2 style="font-family: Montserrat, sans-serif;">how to use</h2>
+                    <img src="Font Style By FNDRSM.png" alt="Font Style" class="image" style="width:100%">
                     <p style="font-family: Montserrat, sans-serif;"><br>I created various text effects with street style. This kind of text can <br>be used to create poster designs and covers with hypebeast style. This <br>style is commonly used for the rap, hip-hop, street culture, and urban <br>industries
                         style.<br></p>
                     <p style="font-family: Montserrat, sans-serif;"><br>How&nbsp; to change the text is to double click on the Smart object layer, and&nbsp;<br>change the text as you wish. Besides text, you can change the text&nbsp;<br>effect color by using the color overlay feature in the group layer.&nbsp;<br>Simply
