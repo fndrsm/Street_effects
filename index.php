@@ -56,7 +56,7 @@
                 <h1 style="font-family: Montserrat, sans-serif;">Download PROJECT</h1>
                 <p style="font-family: Montserrat, sans-serif;"><br><strong><em>NOTE:</em>&nbsp;Appreciate my work with does not sell or upload this Project in any website. If&nbsp; the file is damaged or cannot be downloaded, please report it with the&nbsp; comment below. Please respect my rules because I've worked so hard to&nbsp; make this project.</strong><br><br></p>
                 <button
-                    class="btn btn-primary btn-lg btn-link" href="https://docs.google.com/presentation/d/17kXxft4qEyoUrNHiJzQ5pmgcpiqDXPQXF6MIdnwJsac/edit?usp=drivesdk" type="button" style="background-color: #2b5aff;font-family: Montserrat, sans-serif;color: #ffffff;">DOWNLOAD</button>
+                    class="btn btn-primary btn-lg btn-link" href="https://bit.ly/3aYJee7" type="button" style="background-color: #2b5aff;font-family: Montserrat, sans-serif;color: #ffffff;">DOWNLOAD</button>
             </div>
         </div>
     </section>
