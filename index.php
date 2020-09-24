@@ -32,7 +32,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-8 mx-auto">
-                        <h2 class="brand-heading" style="font-size: 75px; font-weight: bold; font-family: Monstserrat, sans-serif;">STREET STYLE EFFECT</h2>
+                        <h2 class="brand-heading" style="font-size: 75px; font-weight: bold; font-family: Montserrat, sans-serif;">STREET STYLE EFFECT</h2>
                         <p class="intro-text" style="font-family: Montserrat, sans-serif;">This template is totally free. Easy to use.<br>High quality template. Get your download now.<br></p><a class="btn btn-link btn-circle" role="button" href="#about"><i class="fa fa-angle-double-down animated"></i></a></div>
                 </div>
             </div>
